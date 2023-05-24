@@ -1,8 +1,6 @@
 # ლ(.❛ ᴗ ❛.ლ)
 
-Hey! I'm Aichi, 
-
-Software engineer currently working at Nando's UK
+Hey! I'm Aichi, software engineer
 
 I'm interested in Typescript, Go and Rust
 
