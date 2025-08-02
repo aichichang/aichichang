@@ -1,6 +1,6 @@
 # ლ(.❛ ᴗ ❛.ლ)
 
-Hey! I'm Aichi, software engineer
+Hey! I'm a software engineer
 
 I'm interested in Typescript, Go and Rust
 
